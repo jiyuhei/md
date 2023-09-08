@@ -20,3 +20,4 @@ new_image_path = '/Users/mac/'
 
 脚本完成后的情况
 ![image](https://github.com/jiyuhei/md/assets/143597936/cabe6daf-4198-49c0-97d7-008cd49e1e8d)
+![image](https://github.com/jiyuhei/md/assets/143597936/376775b5-3641-4cbb-b68d-266727664a82)
